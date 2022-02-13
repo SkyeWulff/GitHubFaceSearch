@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+}
+
+.results div {
+  display: inline-block;
+  border: 1px solid black;
+  width: 30%;
+  margin: 1%;
+}
+
+.results div img {
+  width: 100%;
+}
